@@ -3,7 +3,7 @@
 void main()
 {
 int i;
-char a[]="hello world";
+char a[]="hello";
 clrscr();
 for(i=1;i<=5;i++)
 {
