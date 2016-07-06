@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int i;
+char a[]="hello world";
+clrscr();
+for(i=1;i<=5;i++)
+{
+printf("%s\n",&a);
+}
+getch();
+}
